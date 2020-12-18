@@ -1,2 +1,1 @@
-# Colque
-tarea 2
+
